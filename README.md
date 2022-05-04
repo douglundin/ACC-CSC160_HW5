@@ -7,3 +7,12 @@ string, and displays the number of vowels and consonants in the string.
 Enter a string: Programming is fun
 The number of vowels is 5
 The number of consonants is 11
+
+
+
+
+Tests
+Input/output
+Programming is fun
+5
+11
